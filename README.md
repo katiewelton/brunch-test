@@ -13,7 +13,7 @@ Clone this repo manually
     * [Brunch](http://brunch.io): `npm install -g brunch`
     * Brunch plugins and app dependencies: `npm install`
 * Run:
-    * `brunch watch --s` — watches the project with continuous rebuild. This will also launch HTTP server with [pushState](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history).
+    * `brunch watch -s` — watches the project with continuous rebuild. This will also launch HTTP server with [pushState](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history).
     * Default href localhost:3333
     * `brunch build --production` — builds minified project for production
 * Learn:
